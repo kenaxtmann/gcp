@@ -30,3 +30,7 @@
     pulumi up
     pulumi destroy
 ```
+
+## Notes
+
+- Setup pulumi to store state outside of github either in s3 bucket or use pulumi enterprise.
