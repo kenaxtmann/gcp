@@ -5,7 +5,7 @@
 - Log into your Google account with email: kaxtmann1@gmail.com
 - Then go to this link [GCP Console](https://console.cloud.google.com)
 
-## Install GCP CLoud SDK
+## Install GCP Cloud SDK
 
 - Follow instuctions at [GCP Cloud SDK](https://cloud.google.com/sdk/docs/install)
 - Installed to "C:\Program Files (x86)\Google\Cloud SDK"
